@@ -45,7 +45,7 @@ For now, screenshots are provided below for reference.
 ---
 
 ##  Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/SowmyaRompi/PerformaceReport-Sowmya-Rompi/blob/main/Screenshot%202026-02-06%20095854.png)
 
 ---
 
