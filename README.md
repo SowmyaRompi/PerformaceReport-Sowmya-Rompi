@@ -36,14 +36,6 @@ commonly required for Business Data Analyst and Power BI Developer roles.
 
 ---
 
-##  Live Dashboard
- **Public Power BI Link:**  
-> *(Coming soon – interactive version will be shared once public access is enabled)*
-
-For now, screenshots are provided below for reference.
-
----
-
 ##  Dashboard Preview
 ![Dashboard Overview](https://github.com/SowmyaRompi/PerformaceReport-Sowmya-Rompi/blob/main/Screenshot%202026-02-06%20095854.png)
 
